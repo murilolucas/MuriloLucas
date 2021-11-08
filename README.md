@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/murilolucas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murilolucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilolucas&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilolucas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: flex"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
